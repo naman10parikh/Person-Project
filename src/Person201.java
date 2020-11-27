@@ -5,11 +5,7 @@ public class Person201 {
     private double myLongitude;
     private String myPhrase;
 
-    /**
-     * Default constructor for Owen@Duke
-     */
     public Person201(){
-        // TODO change here
         myName = "Owen";
         myLatitude = 35.9312;
         myLongitude = -79.0058;
